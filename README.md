@@ -103,7 +103,7 @@ streamlit run app.py
 - Match result
   ![Match Result](screenshots/match_result.png)
 - PDF download button
-  ![PDF Download](screenshots/result_visual+download_button)
+  ![PDF Download](result_visual+download_button.png)
 
 ---
 
