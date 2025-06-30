@@ -97,11 +97,11 @@ streamlit run app.py
 
 ## Screenshots 
 - Home screen
-  ![Home]()
+  ![Home](screenshots/home_screen.png)
 - Upload & JD input
   ![Upload](screenshots/upload.png)
 - Match result
-  ![Match Result]()
+  ![Match Result](screenshots/match_result.png)
 - PDF download button
   ![PDF Download](screenshots/result_visual+download_button.png)
 
