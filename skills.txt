@@ -1,0 +1,19 @@
+python
+SQL
+Communication
+teamwork
+data analysis
+excel
+git
+flask
+Django
+C++
+microcontrollers
+can protocols
+html
+CSS
+JavaScript
+react
+power bi
+Tableau
+Data Visualization
