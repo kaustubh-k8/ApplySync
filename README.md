@@ -1,6 +1,6 @@
-#  SkillSync — AI-Powered Resume to JD Matching Tool
+#  ApplySync — AI-Powered Resume to JD Matching Tool
 
-**SkillSync** is an intelligent NLP-powered web app that scans resumes, extracts key skills, and matches them against job descriptions to calculate a job fit score.
+**ApplySync** is an intelligent NLP-powered web app that scans resumes, extracts key skills, and matches them against job descriptions to calculate a job fit score.
 
 It’s designed for recruiters, job seekers, and career platforms — streamlining resume screening with real-world accuracy and instant feedback.
 
@@ -97,11 +97,11 @@ streamlit run app.py
 
 ## Screenshots 
 - Home screen
-  ![Home](screenshots/home_screen.png)
+  ![Home]()
 - Upload & JD input
   ![Upload](screenshots/upload.png)
 - Match result
-  ![Match Result](screenshots/match_result.png)
+  ![Match Result]()
 - PDF download button
   ![PDF Download](screenshots/result_visual+download_button.png)
 
