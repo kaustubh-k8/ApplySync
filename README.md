@@ -95,7 +95,7 @@ streamlit run app.py
 
 ---
 
-## Screenshots (add these after upload)
+## Screenshots 
 - Home screen
   ![Home](screenshots/home_screen.png)
 - Upload & JD input
