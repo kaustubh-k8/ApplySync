@@ -1,0 +1,19 @@
+We are looking for a Junior Backend Developer to join our engineering team and help build scalable backend systems for our SaaS products. The ideal candidate should be comfortable working with Python, have experience with web frameworks like Flask or Django, and understand core software engineering principles.
+
+### Key Responsibilities:
+- Design and develop RESTful APIs using Python and Java
+- Build and maintain backend services using Flask and Django
+- Collaborate with frontend developers to integrate UI with server-side logic
+- Work with Git for version control and team collaboration
+- Write efficient SQL queries for data manipulation and reporting and excel knowledge.
+- Participate in code reviews and documentation
+- Contribute to improving application performance and scalability
+
+### Requirements:
+- Solid understanding of Python programming fundamentals
+- Hands-on experience with Flask and/or Django
+- Familiarity with SQL databases (PostgreSQL, MySQL, etc.)
+- Knowledge of Git for source control
+- Exposure to C++ or systems-level programming is a plus
+- Good problem-solving skills and teamwork as well as communication
+
